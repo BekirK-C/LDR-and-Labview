@@ -9,7 +9,7 @@ Arduino kodlarını içeren dosyadır. Serial portla haberleşme sağlanıp Ardu
 
 ## LDR Sensor ile LED Kontrolu Dosyası Hakkında
 
-Projenin VI dosyasını içerir. Front panelde Gauge gösterge paneli, 3 tane gösterge ledi, 2 tane referans numerik kontrol paneli, 1 tane port control paneli ve stop durdurma düğmesi bulunmaktadır. Back panelde gerekli VISA haberleşmesi yapılıp döngü içinde daha önceden belirlenen referans değerlere göre karşılaştırma yapılmaktadır.
+Projenin VI dosyasını içerir. Front panelde Gauge gösterge paneli, 3 tane gösterge ledi, 2 tane  numerik kontrol paneli, 1 tane port kontrol paneli ve stop durdurma düğmesi bulunmaktadır. Back panelde gerekli VISA haberleşmesi yapılıp döngü içinde daha önceden belirlenen referans değerlere göre karşılaştırma yapılmaktadır.
 
 ## Images Hakkında
 
