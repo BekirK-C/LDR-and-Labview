@@ -17,7 +17,8 @@ Projenin 3 ayrı haldeki (Düşük, Normal ve Yüksek ışıkta) fotoğrafını 
 
 ## Nasıl Çalışır
 
-Öncelikle Yazdığımız Arduino kodlarını Arduino'ya yüklüyoruz. Ardından yine Serial olarak Arduino ile haberleşme sağlayıp oluşturduğumuz LabVIEW dosyasını açıyoruz. Açılan projede seri port panelinden Arduino'yu bağladığımız pini seçmeli ve 'Normal' ve 'Yüksek' olarak adlandırılan referans değerlerini belirlemeliyiz. Arduino'nun A0 pinine bağlı olan LDR sensörden okunan değerler VI'daki Gauge göstergesinden okunabilir. Önceden belirlenen referans değerlerine göre ışık şiddetini ledlerle düşük, normal veya yüksek olarak görebiliriz
+Öncelikle Yazdığımız Arduino kodlarını Arduino'ya yüklüyoruz. Ardından yine Serial olarak Arduino ile haberleşme sağlayıp oluşturduğumuz LabVIEW dosyasını açıyoruz. Açılan projede serial port panelinden Arduino'yu bağladığımız COM'u seçmeli ve 'Normal' ve 'Yüksek' olarak adlandırılan referans değerlerini belirlemeliyiz. 
+Arduino'nun A0 pinine bağlı olan LDR sensörden okunan değerler VI'daki Gauge göstergesinden okunabilir. Önceden belirlenen referans değerlerine göre ışık şiddetini ledlerle düşük, normal veya yüksek olarak görebiliriz
 
 ## NOT
 
